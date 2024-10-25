@@ -1,0 +1,28 @@
+*{box-sizing:border-box}
+h1:nth-of-type(1) {
+   color: rgb(82, 145, 90) ;
+   text-align: center;
+}
+:root{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(102, 134, 124);
+}
+body{
+    background-color: rgb(122, 167, 122);
+    font-size: larger;
+}
+h2:nth-of-type(1){
+    color: rgb(37, 95, 57);
+    text-align: center;
+}
+p{
+    color: rgb(193, 111, 240) !;
+    text-align: center;
+}
+#mi-id{
+    color: rgb(94, 85, 172); 
+    text-align: center;
+  }
+#mDos {
+    color: brown;
+}
